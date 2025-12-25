@@ -1,6 +1,6 @@
-# About KYCsecure
+# About Identivia
 
-<a href="https://kycsecure.online" target="_blank">KYCsecure</a> envisions a world where no one gets hacked, and we recognize this is only possible by working together. The global KYCsecure community shapes our mission to empower individuals, teams, and organizations to safely manage their sensitive information online.
+<a href="https://identivia.com" target="_blank">KYCsecure</a> envisions a world where no one gets hacked, and we recognize this is only possible by working together. The global Identivia community shapes our mission to empower individuals, teams, and organizations to safely manage their sensitive information online.
 
 - [Demo](https://demo.scanidentity.online)
 - [Docs](https://docs.scanidentity.online)
@@ -12,7 +12,7 @@
     <li>Fork KYCsecure
 </ul>
 
-To request support, please visit http://kycsecure.online/help and click the Contact support button on the right-hand side.
+To request support, please visit http://identivia.com/help and click the Contact support button on the right-hand side.
 
 # We're Hiring!
 
