@@ -14,14 +14,8 @@
 
 To request support, please visit http://identivia.com/help and click the Contact support button on the right-hand side.
 
-# We're Hiring!
-
-Interested in contributing in a big way? Consider joining Identivia! We're hiring for many positions. Please take a look at the [Careers page](https://identivia.com/careers/) to see what opportunities are currently open as well as what it's like to work at Identivia.
-
 # Contribute
 
 Code contributions are welcome! Please commit any pull requests against the `main` branch. Learn more about how to contribute by reading the [Contributing Guidelines](https://contributing.identivia.com/contributing/). Check out the [Contributing Documentation](https://contributing.identivia.com/) for how to get started with your first contribution.
 
 Security audits and feedback are welcome. Please open an issue or email us privately if the report is sensitive in nature. You can read our security policy in the [`SECURITY.md`](/SECURITY.md) file.
-
-> Owned by TENGDA
